@@ -20,7 +20,7 @@
  <br>
 <strong><em>~The Dead Bunny Collective~</em></strong>
  <br>
- Because phishing is a great way to pass the time.</em>
+ <em>Because phishing is a great way to pass the time.</em>
 <br>
 <br>
 
