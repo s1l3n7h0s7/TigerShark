@@ -16,7 +16,7 @@
 
 
 # TigerShark
-<strong><em>s1l3nt78</strong>
+<strong><em>s1l3nt78</em></strong>
  <br>
 <strong><em>~The Dead Bunny Collective~</em></strong>
  <br>
